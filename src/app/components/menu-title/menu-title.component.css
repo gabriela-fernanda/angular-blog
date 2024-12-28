@@ -8,5 +8,7 @@
   font-size: 50px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
+  margin-inline-start: 170px;
+  align-items: center;
 
 }

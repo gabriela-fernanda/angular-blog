@@ -4,6 +4,7 @@
   border-radius: 20px;
   padding: 20px;
   width: 100%;
+  margin-inline-start: 0px;
 }
 
 .big-card-photo {
